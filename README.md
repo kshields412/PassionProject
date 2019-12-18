@@ -1,4 +1,4 @@
-Movie Night Curator
+Movie Night Curator / Possible Date Night Curator (README.md WILL CHANGE)
 
 Will be able to curate a list of about 3-5 good movies based on an input of feelings and an input of a few movie genres definitive of what user would want to view.
 
